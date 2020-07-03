@@ -8,3 +8,4 @@ iOS WebApp for the web Microlancer.io
 - [ ] Save user details
 - [ ] Add 3D touch shortcuts
 - [ ] Switch to API
+- [ ] Dynamic Dark Mode
