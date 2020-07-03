@@ -7,34 +7,22 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		7EBEDB2B24A9341100AB1AE1 /* InboxViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7EBEDB1C24A9341000AB1AE1 /* InboxViewController.swift */; };
 		7EBEDB2C24A9341100AB1AE1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7EBEDB1D24A9341000AB1AE1 /* Assets.xcassets */; };
 		7EBEDB2D24A9341100AB1AE1 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7EBEDB1E24A9341000AB1AE1 /* AppDelegate.swift */; };
 		7EBEDB2E24A9341100AB1AE1 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7EBEDB2024A9341000AB1AE1 /* LaunchScreen.storyboard */; };
 		7EBEDB2F24A9341100AB1AE1 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7EBEDB2224A9341000AB1AE1 /* Main.storyboard */; };
-		7EBEDB3124A9341100AB1AE1 /* ProfileViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7EBEDB2524A9341000AB1AE1 /* ProfileViewController.swift */; };
-		7EBEDB3224A9341100AB1AE1 /* ServicesViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7EBEDB2624A9341000AB1AE1 /* ServicesViewController.swift */; };
-		7EBEDB3324A9341100AB1AE1 /* TasksViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7EBEDB2724A9341000AB1AE1 /* TasksViewController.swift */; };
-		7EBEDB3424A9341100AB1AE1 /* NewTaskViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7EBEDB2824A9341000AB1AE1 /* NewTaskViewController.swift */; };
-		7EBEDB3524A9341100AB1AE1 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7EBEDB2924A9341100AB1AE1 /* ViewController.swift */; };
-		7EBEDB3624A9341100AB1AE1 /* MyTabBarController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7EBEDB2A24A9341100AB1AE1 /* MyTabBarController.swift */; };
+		F32C8C3724AF931300EA7495 /* MainViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F32C8C3624AF931300EA7495 /* MainViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		7EBEDAE724A9326500AB1AE1 /* Microlancer.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Microlancer.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		7EBEDB1C24A9341000AB1AE1 /* InboxViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = InboxViewController.swift; sourceTree = "<group>"; };
 		7EBEDB1D24A9341000AB1AE1 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		7EBEDB1E24A9341000AB1AE1 /* AppDelegate.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		7EBEDB2124A9341000AB1AE1 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = LaunchScreen.storyboard; sourceTree = "<group>"; };
 		7EBEDB2324A9341000AB1AE1 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Main.storyboard; sourceTree = "<group>"; };
-		7EBEDB2524A9341000AB1AE1 /* ProfileViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ProfileViewController.swift; sourceTree = "<group>"; };
-		7EBEDB2624A9341000AB1AE1 /* ServicesViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ServicesViewController.swift; sourceTree = "<group>"; };
-		7EBEDB2724A9341000AB1AE1 /* TasksViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TasksViewController.swift; sourceTree = "<group>"; };
-		7EBEDB2824A9341000AB1AE1 /* NewTaskViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NewTaskViewController.swift; sourceTree = "<group>"; };
-		7EBEDB2924A9341100AB1AE1 /* ViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
-		7EBEDB2A24A9341100AB1AE1 /* MyTabBarController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MyTabBarController.swift; sourceTree = "<group>"; };
 		7EBEDB3B24A936C700AB1AE1 /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		7EEDD89F24A3C613002651EA /* Default-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-568h@2x.png"; sourceTree = "<group>"; };
+		F32C8C3624AF931300EA7495 /* MainViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,13 +43,7 @@
 				7EBEDB1E24A9341000AB1AE1 /* AppDelegate.swift */,
 				7EBEDB1D24A9341000AB1AE1 /* Assets.xcassets */,
 				7EBEDB1F24A9341000AB1AE1 /* Base.lproj */,
-				7EBEDB1C24A9341000AB1AE1 /* InboxViewController.swift */,
-				7EBEDB2A24A9341100AB1AE1 /* MyTabBarController.swift */,
-				7EBEDB2824A9341000AB1AE1 /* NewTaskViewController.swift */,
-				7EBEDB2524A9341000AB1AE1 /* ProfileViewController.swift */,
-				7EBEDB2624A9341000AB1AE1 /* ServicesViewController.swift */,
-				7EBEDB2724A9341000AB1AE1 /* TasksViewController.swift */,
-				7EBEDB2924A9341100AB1AE1 /* ViewController.swift */,
+				F32C8C3824AF953900EA7495 /* Scene Views */,
 			);
 			path = Microlancer;
 			sourceTree = "<group>";
@@ -90,6 +72,14 @@
 				7EBEDAE724A9326500AB1AE1 /* Microlancer.app */,
 			);
 			name = Products;
+			sourceTree = "<group>";
+		};
+		F32C8C3824AF953900EA7495 /* Scene Views */ = {
+			isa = PBXGroup;
+			children = (
+				F32C8C3624AF931300EA7495 /* MainViewController.swift */,
+			);
+			path = "Scene Views";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -165,13 +155,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				7EBEDB2D24A9341100AB1AE1 /* AppDelegate.swift in Sources */,
-				7EBEDB3424A9341100AB1AE1 /* NewTaskViewController.swift in Sources */,
-				7EBEDB3624A9341100AB1AE1 /* MyTabBarController.swift in Sources */,
-				7EBEDB3124A9341100AB1AE1 /* ProfileViewController.swift in Sources */,
-				7EBEDB3224A9341100AB1AE1 /* ServicesViewController.swift in Sources */,
-				7EBEDB2B24A9341100AB1AE1 /* InboxViewController.swift in Sources */,
-				7EBEDB3524A9341100AB1AE1 /* ViewController.swift in Sources */,
-				7EBEDB3324A9341100AB1AE1 /* TasksViewController.swift in Sources */,
+				F32C8C3724AF931300EA7495 /* MainViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

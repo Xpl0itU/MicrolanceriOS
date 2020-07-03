@@ -1,5 +1,7 @@
-# MicrolanceriOS
-iOS WebApp for the web Microlancer.io
+# Microlancer iOS
+
+iOS WebApp for the web [Microlancer.io](https://microlancer.io/).
+
 
 ## TODO
 
